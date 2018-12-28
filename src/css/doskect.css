@@ -1,0 +1,26 @@
+@media(min-width:768px){
+    .search{
+        margin-left: -50%;
+        width: 25rem;
+        height: 2.4rem;
+        border: 1px solid silver;
+        border-radius: .50rem;
+    }
+    .boton{
+        margin-left: -23%;
+        width: 2.4rem;
+        height: 2.4rem;
+        border-radius: .24rem;
+        outline:none;
+    }
+    .caja{ 
+        display: block;
+        width: 7rem;
+        height: 2.5rem;
+        margin-left:5%;
+        border:  1px solid silver ;    
+    }
+    #mensajes{
+        height:13rem;
+    }
+}

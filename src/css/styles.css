@@ -1,0 +1,94 @@
+.contenedor{
+    margin-left:1%;
+    margin-right: 1%;
+}
+.logo{
+    position: relative; left: 3%;
+    width:3rem; 
+    height:3rem;   
+}
+.busqueda{
+    margin-top: 1%;
+    margin-bottom: 1%;
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.barrabusqueda{
+    display:flex;
+    justify-content: space-around;
+}
+.search{
+    border: 1px solid silver;
+}
+.boton{
+    border-radius: .24rem;
+}
+.caja{
+    border:  1px solid silver ;
+}
+.chekbox{
+ padding: 1rem;
+}
+.bot{
+ justify-content: center;
+ align-items: center;
+}
+.condi{
+    
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.footer{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+.links{ 
+    display: inline;
+    margin: 2%;
+}
+
+.btninicio{
+    position: relative; left: 27.5%;
+}
+
+.tecnologiaimg{
+    /*max-width:100%;width:auto;height:auto;*/
+    width: 7rem;
+
+}
+.flext{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.perfil{
+    display: flex;
+    flex-direction: row;
+    margin-left:10%;
+}
+
+.imgeinfoperfil{
+    display: flex;
+    flex-direction: column;
+}
+
+.imgperfil{
+    width: 25rem;
+}
+
+.infolo{
+    position: relative; left: 32%;
+}
+
+.label{
+    width: 90px;
+}

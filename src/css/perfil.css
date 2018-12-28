@@ -1,0 +1,15 @@
+@media(max-width:768px){
+    .input{
+        display: flex;
+        flex-direction:column;
+    }
+}
+.input{
+    margin-left: 10%;
+}
+
+.update{
+    margin-top: 3%;
+    margin-left: 20%;
+    margin-right: 30%;
+}
